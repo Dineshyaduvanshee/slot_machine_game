@@ -1,0 +1,43 @@
+/* src/SlotMachine.css */
+.slot-machine {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .SlotMachine {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .SlotMachine-reel {
+    font-size: 2rem;
+    margin: 0 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  
+  .slot-machine {
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .slot-machine span {
+    margin: 0 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
